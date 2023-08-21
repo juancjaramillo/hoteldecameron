@@ -1,2 +1,2 @@
 # hoteldecameron
-proyecto tecnico hotel Decameon
+proyecto técnico Hotel Decameon
